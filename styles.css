@@ -1,0 +1,39 @@
+
+    a:link {
+      color: blue;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: brown;
+      background-color: transparent;
+      text-decoration: none;
+
+    }
+    a:hover {
+      color:red;
+      background-color: transparent;
+      text-decoration: none;
+
+    }
+    a:active {
+      color: yellow;
+      background-color: transparent;
+      text-decoration: none;}
+  body {background-image:
+     url("image.jpg");
+   background-color: powderblue;}
+
+  h1 {color: brown; text-align:center;
+  font-size: 190%;
+font-family: inherit;}
+p {padding: 0.5px;font-size: 100%;}
+h2 {color: brown; font-family: Verdana;}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width: 5px;
+  width: 5%;
+}
